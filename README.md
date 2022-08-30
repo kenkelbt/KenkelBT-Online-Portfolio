@@ -1,6 +1,6 @@
 Portfolio Assignment
 ==========================================
-![Assignment Checks](https://github.com/IT3049C/1.student-portfolio/workflows/Assignment%20Checks/badge.svg)
+[![GitHub Classroom Workflow](https://s///github.com/kenkelbt/KenkelBT-Online-Portfolio/actions/workflows/classroom.yml/badge.svg)](https://s///github.com/kenkelbt/KenkelBT-Online-Portfolio/actions/workflows/classroom.yml)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/1.Online_Portfolio/).
 ## Checklist:
